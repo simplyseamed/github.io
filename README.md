@@ -1,2 +1,2 @@
-simplyseamed
+Simply Seamed
 =========
